@@ -1,4 +1,4 @@
-# CHECKMATE-F: Forensic File Integrity & Audit Suite (v1.0)
+# CHECKMATE-F: Forensic File Integrity & Audit Suite (v0.1)
 
 CHECKMATE-F is a C# console application designed for directory monitoring and forensic integrity verification. It allows users to create state-snapshots of specific directories and perform audits to detect unauthorized modifications, deletions, or renames by comparing live data against a trusted baseline.
 
